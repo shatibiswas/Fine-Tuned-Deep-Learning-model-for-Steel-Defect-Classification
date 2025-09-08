@@ -17,7 +17,6 @@ Relevance:
 Confirms NEU as a reliable benchmark.
 Demonstrates transfer learning’s effectiveness in steel defect detection.
 
-
 Source:  
 https://www.mdpi.com/2076-3417/9/15/3127
 
