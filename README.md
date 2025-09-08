@@ -25,7 +25,5 @@ https://www.mdpi.com/2076-3417/9/15/3127
 Dataset Used:The project utilizes the NEU (Northeastern University) Surface Defect Database, a widely used benchmark dataset for defect detection tasks in the steel industry.
 
 Dataset source: 
-https://www.kaggle.com/
-datasets/kaustubhdikshit
-/neu-surface-defect-database
+https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database
 
